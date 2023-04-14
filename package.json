@@ -1,0 +1,22 @@
+{
+  "name": "js_friday_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "nodemon ./task1.js",
+    "task2": "nodemon ./task2.js",
+    "task3": "nodemon ./task3.js",
+    "task4": "nodemon ./task4.js",
+    "task5": "nodemon ./task5.js",
+    "task6": "nodemon ./task6.js",
+    "task7": "nodemon ./task7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darius (https://github.com/DuserK)",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
